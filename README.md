@@ -2,10 +2,9 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+Removal of string oggy from the list from strings.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+1.Iterating the Arraylist using iterator.
+2.If the current string contains "oggy",removing the current string using iterators remove method.
