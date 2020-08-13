@@ -9,7 +9,7 @@ public class Main {
     	while(itr.hasNext())
     	{
     		String name=(String)itr.next();
-    		if(itr.contains("oggy"))
+    		if(name.contains("oggy"))
     		{
     			itr.remove();
     		}
